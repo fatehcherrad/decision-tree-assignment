@@ -1,0 +1,3 @@
+include example.py report.md
+recursive-include data *.csv
+recursive-include tests *.py

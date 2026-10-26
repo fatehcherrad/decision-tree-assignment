@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "fateh-simple-decision-tree"
+version = "0.1.0"
+description = "A small decision tree using entropy and information gain, from scratch."
+readme = "README.md"
+requires-python = ">=3.10"
+license = "MIT"
+authors = [{name = "Fateh Cherrad"}]
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/fatehcherrad/decision-tree-assignment"
+
+[tool.setuptools.packages.find]
+include = ["simple_tree*"]
