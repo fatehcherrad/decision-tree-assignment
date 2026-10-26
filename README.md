@@ -41,7 +41,7 @@ Input rows are dictionaries. Class labels and categorical values must be hashabl
 
 ## Package
 
-Version **0.1.0** is published on [PyPI](https://pypi.org/project/fateh-simple-decision-tree/).
+Published releases are available on [PyPI](https://pypi.org/project/fateh-simple-decision-tree/).
 
 Install locally with `python -m pip install .`. Distribution name: `fateh-simple-decision-tree`; import name: `simple_tree`.
 

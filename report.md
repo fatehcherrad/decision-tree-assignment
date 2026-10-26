@@ -50,10 +50,10 @@ Nine automated tests check entropy, information gain, the expected tennis tree, 
 
 The display bonus is implemented as an indented text tree. The code is also packaged with `pyproject.toml` under the distribution name `fateh-simple-decision-tree`. The release workflow runs the tests, builds the package and publishes through PyPI Trusted Publishing, without storing an API token.
 
-Version `0.1.0` was published to PyPI on 26 October 2026. Installation from the public index was checked in a clean environment, including entropy, prediction and display. Both bonuses are implemented.
+The package is available on PyPI. Version `0.1.1` contains the updated documentation and repository link.
 
 ```bash
-python -m pip install fateh-simple-decision-tree==0.1.0
+python -m pip install fateh-simple-decision-tree==0.1.1
 ```
 
 ## Limitations
